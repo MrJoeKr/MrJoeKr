@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrJoeKr
 - 👀 I’m interested in coding, reading books, learning new things
 - 🌱 I’m currently learning various programming languages (C#, C++), problem solving, data structures
-- 💞️ I’m looking to collaborate on a more complex project in C# / C++ / Python
-- 📫 Reach me through my GitHub: @MrJoeKr
+- 💞️ I’m looking to collaborate on a more complex project in any language
+- 📫 Reach me through my GitHub: @MrJoeKr or Discord @Joe_#8589
 
 <!---
 MrJoeKr/MrJoeKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
