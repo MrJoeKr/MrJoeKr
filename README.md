@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrJoeKr
-- 👀 I’m interested in coding, reading books, learning
-- 🌱 I’m currently learning various programming languages (C#, C++), problem solving, data structures
-- 💞️ I’m looking to collaborate on a more complex project in any language
+- 👀 I’m interested in coding, AI, neural networks
+- 🌱 I’m currently learning theory behind AI processes together with their practical implementation
+- 💞️ I’m looking to collaborate on AI related projects
 - 📫 Reach me through my *GitHub*: [``MrJoeKr``](https://github.com/MrJoeKr) or *Discord*: [``Joe_#8589``](https://discord.com/users/337972505748832257)
 
 <!---
