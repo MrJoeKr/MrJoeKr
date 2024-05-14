@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrJoeKr
 - 👀 I’m interested in coding, AI, neural networks
-- 🌱 I’m currently learning theory behind AI processes together with their practical implementation
-- 💞️ I’m looking to collaborate on AI related projects, currently collaborating with [``ÚZIS``](https://www.uzis.cz/) and [``RationAI``](https://rationai.fi.muni.cz/)
+- 🌱 I’m currently learning the theory behind AI processes together with their practical implementation
+- 💞️ I’m looking to collaborate on AI-related projects, currently collaborating with [``ÚZIS``](https://www.uzis.cz/) and [``RationAI``](https://rationai.fi.muni.cz/)
 - 📫 Reach me through my *Discord*: [``Joe_#8589``](https://discord.com/users/337972505748832257)
 
 <!---
