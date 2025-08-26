@@ -6,6 +6,7 @@
   * [Prostate Cancer Detection](https://gitlab.ics.muni.cz/rationai/digital-pathology/pathology/prostate-cancer) (RationAI)
   * [NOR-cleaner](https://github.com/RationAI/NOR-cleaner) (IHIS CR)
   * [lpz-decision-system](https://github.com/MrJoeKr/lpz-decision-system) (IHIS CR)
+  * [FeelViz](https://github.com/MrJoeKr/FeelViz) (Side project)
 
 
 <!---
